@@ -13,5 +13,5 @@
 // let cat2 = require('./cat')
 // console.log(cat2.create('小灰'));
 // package.json方式
-let cat2 = require('./cat2')
-console.log(cat2.create('小黑'));
+// let cat2 = require('./cat2')
+// console.log(cat2.create('小黑'));
